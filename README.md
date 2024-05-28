@@ -1,0 +1,12 @@
+# Esquema de Radio
+
+| Seccion                               | Duracion  |
+|---------------------------------------|-----------|
+| 1. Plantillas presentacion            | 1 min     |
+| 2. Conduccion presentacion del programa| 2 min     |
+| 3. Noticias politicas                 | 2 min     |
+| 4. Noticias locales                   | 2 min     |
+| 5. Enlace                             | 1:30 min  |
+| 6. Noticias de espectaculos            | 2 min     |
+| 7. Noticia de deportes                | 2 min     |
+| 8. Despedida                          | 30 seg    |
